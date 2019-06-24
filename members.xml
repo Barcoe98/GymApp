@@ -1,0 +1,12 @@
+<object-stream>
+  <list>
+    <Member>
+      <memberId>565656</memberId>
+      <memberName>cour</memberName>
+      <memberAddress>stackley</memberAddress>
+      <height>2.3</height>
+      <startingWeight>45.0</startingWeight>
+      <gender>Male</gender>
+    </Member>
+  </list>
+</object-stream>
